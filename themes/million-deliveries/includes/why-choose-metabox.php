@@ -1,7 +1,7 @@
 <?php
 /**
  * WHY CHOOSE META BOX 
-   1. ADD META BOX */
+ */
 add_action('add_meta_boxes', function () {
     add_meta_box(
         'md_wc_metabox',
